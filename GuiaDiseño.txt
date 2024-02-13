@@ -1,0 +1,67 @@
+
+Una página web de tipo "landing page" (página de destino) tiene como objetivo principal convertir
+ a los visitantes en clientes potenciales o realizar una acción específica. Aunque los objetivos pueden 
+variar según el propósito y la estrategia de marketing de la empresa, 
+algunas metas comunes incluyen:
+
+Capturar Información del Visitante: Muchas landing pages están diseñadas para recopilar información de los visitantes,
+ como sus direcciones de correo electrónico o números de teléfono.
+ Esto se hace mediante formularios de registro o suscripción.
+
+Promover una Oferta Específica: Las landing pages a menudo se utilizan para promocionar una oferta o producto específico.
+ Esto puede incluir descuentos, pruebas gratuitas, demos, etc. El objetivo es persuadir a los visitantes para que 
+realicen una acción, como realizar una compra o suscribirse a un servicio.
+
+Generar Conversiones: Una conversión puede ser cualquier acción valiosa que realice un visitante,
+ como completar un formulario, realizar una compra, descargar un recurso, etc. La landing page está diseñada
+ para maximizar estas conversiones.
+
+Facilitar la Navegación: Al centrarse en un único producto, servicio o oferta, las landing pages pueden
+ simplificar la experiencia del usuario y guiar a los visitantes hacia una acción específica. Esto contrasta
+ con los sitios web más extensos que pueden tener múltiples secciones y propósitos.
+
+Mejorar la Relevancia: Al dirigir el tráfico a una página específica que coincide con el mensaje o la oferta
+ de una campaña publicitaria, se mejora la relevancia y se aumenta la probabilidad de que los visitantes realicen
+ la acción deseada.
+
+Medir el Rendimiento: Las landing pages suelen ser parte de campañas de marketing digital, y su diseño simplificado
+ facilita la medición del rendimiento. Las métricas clave incluyen tasas de conversión, tasas de clics y otras métricas
+ específicas de la acción deseada.
+
+En resumen, una landing page bien diseñada tiene un propósito claro y está optimizada para convertir
+ visitantes en leads, clientes u otras conversiones deseadas. Su estructura y contenido se enfocan en guiar
+ al usuario hacia una acción específica de manera efectiva.
+
+
+- Ilustrar éste texto
+- Modificar la redaccion del texto
+- Diseño de cajas
+- Fondo estatico 
+- Mobil first
+- Paleta de colores:
+.color1 { #368986 };
+.color2 { #e79a32 };
+.color3 { #f84339 };
+.color4 { #d40f60 };
+.color5 { #005c81 };
+
+Colores secundarios:
+.color3 { #e58db0 };
+.color4 { #f2c0d8 };
+
+.color1 { #d4a168 };
+.color2 { #deb886 };
+.color3 { #e9d0a4 };
+.color4 { #f4e7c2 };
+.color5 { #ffffe0 };
+
+Foto casamiento: Foto de Jonathan Borba: https://www.pexels.com/es-es/foto/hombre-amor-mujer-celebracion-12031177/
+Foto casamiento2: Foto de Ünal  Aslan: https://www.pexels.com/es-es/foto/hombre-amor-mujer-bosque-18741311/
+
+Img: Oferta  <a href="https://www.freepik.es/psd-gratis/logo-3d-render-super-oferta-composiciones-promocion_40792640.htm#query=oferta%202x1%20png&position=0&from_view=keyword&track=ais&uuid=6f7c27ec-9873-4da3-b6ec-13553e5e9444">Imagen de negoo-s</a> en Freepik
+
+Img Registrando datos: <a href="https://es.vecteezy.com/vectores-gratis/persona-escribiendo">Persona Escribiendo Vectores por Vecteezy</a>
+
+Img Presencia en web: Imagen de <a href="https://www.freepik.es/foto-gratis/pagina-inicio-vista-pantalla-computadora_26538658.htm#query=mockup%20web&position=20&from_view=keyword&track=ais&uuid=aefe3958-71f8-4529-8187-9245c571a64d">Freepik</a>
+
+--

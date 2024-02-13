@@ -1,0 +1,9 @@
+Colores del logo del rinoceronte
+
+Amarillo   #E7ECA6
+
+Gris       #4A5B6B
+
+2 Gris     #263748
+
+Azul       #151F3B
